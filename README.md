@@ -8,7 +8,7 @@ A slightly darkened take on [Base16 Tomorrow Night](https://github.com/chriskemp
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<you>/omarchy-tomorrow-night
+omarchy theme install https://github.com/rizwanreza/omarchy-tomorrow-night
 omarchy theme set tomorrow-night
 ```
 
