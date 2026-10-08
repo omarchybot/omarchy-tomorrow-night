@@ -1,0 +1,32 @@
+mode = "dark"
+
+# Base16 Tomorrow Night (Chris Kempson)
+accent = "#81a2be"
+selection = "#373b41"
+muted = "#969896"
+
+background = "#151719"
+dark_background = "#151719"
+darker_background = "#101113"
+lighter_background = "#1f2124"
+
+foreground = "#c5c8c6"
+dark_foreground = "#969896"
+light_foreground = "#b4b7b4"
+bright_foreground = "#e0e0e0"
+
+red = "#cc6666"
+yellow = "#f0c674"
+orange = "#de935f"
+green = "#b5bd68"
+cyan = "#8abeb7"
+blue = "#81a2be"
+magenta = "#b294bb"
+brown = "#a3685a"
+
+bright_red = "#d54e53"
+bright_yellow = "#f0c674"
+bright_green = "#b9ca4a"
+bright_cyan = "#8abeb7"
+bright_blue = "#7aa6da"
+bright_magenta = "#c397d8"
